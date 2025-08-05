@@ -1,0 +1,12 @@
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Domain\bin\Debug\net7.0\Conserv.Api.Domain.deps.json
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Domain\bin\Debug\net7.0\Conserv.Api.Domain.dll
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Domain\bin\Debug\net7.0\Conserv.Api.Domain.pdb
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Domain\obj\Debug\net7.0\Conserv.Api.Domain.csproj.AssemblyReference.cache
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Domain\obj\Debug\net7.0\Conserv.Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Domain\obj\Debug\net7.0\Conserv.Api.Domain.AssemblyInfoInputs.cache
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Domain\obj\Debug\net7.0\Conserv.Api.Domain.AssemblyInfo.cs
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Domain\obj\Debug\net7.0\Conserv.Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Domain\obj\Debug\net7.0\Conserv.Api.Domain.dll
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Domain\obj\Debug\net7.0\refint\Conserv.Api.Domain.dll
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Domain\obj\Debug\net7.0\Conserv.Api.Domain.pdb
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Domain\obj\Debug\net7.0\ref\Conserv.Api.Domain.dll

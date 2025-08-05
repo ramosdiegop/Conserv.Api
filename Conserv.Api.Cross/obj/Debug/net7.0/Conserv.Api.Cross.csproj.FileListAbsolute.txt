@@ -1,0 +1,17 @@
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\bin\Debug\net7.0\Conserv.Api.Cross.deps.json
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\bin\Debug\net7.0\Conserv.Api.Cross.dll
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\bin\Debug\net7.0\Conserv.Api.Cross.pdb
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\obj\Debug\net7.0\Conserv.Api.Cross.csproj.AssemblyReference.cache
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\obj\Debug\net7.0\Conserv.Api.Cross.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\obj\Debug\net7.0\Conserv.Api.Cross.AssemblyInfoInputs.cache
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\obj\Debug\net7.0\Conserv.Api.Cross.AssemblyInfo.cs
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\obj\Debug\net7.0\Conserv.Api.Cross.csproj.CoreCompileInputs.cache
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\obj\Debug\net7.0\Conserv.Api.Cross.dll
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\obj\Debug\net7.0\refint\Conserv.Api.Cross.dll
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\obj\Debug\net7.0\Conserv.Api.Cross.pdb
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\obj\Debug\net7.0\ref\Conserv.Api.Cross.dll
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\bin\Debug\net7.0\Conserv.Api.Data.dll
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\bin\Debug\net7.0\Conserv.Api.Domain.dll
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\bin\Debug\net7.0\Conserv.Api.Data.pdb
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\bin\Debug\net7.0\Conserv.Api.Domain.pdb
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\obj\Debug\net7.0\Conserv.Api.Cross.csproj.CopyComplete

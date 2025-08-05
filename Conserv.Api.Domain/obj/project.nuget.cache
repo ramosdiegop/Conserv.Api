@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xoWhwApiLZWKNlwFs68WNLqRGzRz6jUJhjCP2PxEDWXxjrgbRyKcpSTflwM5cC8vtx7dvsWoU266CsMSDkl4fQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dramos\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

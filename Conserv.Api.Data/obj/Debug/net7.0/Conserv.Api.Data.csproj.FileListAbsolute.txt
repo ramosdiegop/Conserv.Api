@@ -1,0 +1,17 @@
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\bin\Debug\net7.0\Conserv.Api.Data.deps.json
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\bin\Debug\net7.0\Conserv.Api.Data.dll
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\bin\Debug\net7.0\Conserv.Api.Data.pdb
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\obj\Debug\net7.0\Conserv.Api.Data.csproj.AssemblyReference.cache
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\obj\Debug\net7.0\Conserv.Api.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\obj\Debug\net7.0\Conserv.Api.Data.AssemblyInfoInputs.cache
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\obj\Debug\net7.0\Conserv.Api.Data.AssemblyInfo.cs
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\obj\Debug\net7.0\Conserv.Api.Data.csproj.CoreCompileInputs.cache
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\obj\Debug\net7.0\Conserv.Api.Data.dll
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\obj\Debug\net7.0\refint\Conserv.Api.Data.dll
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\obj\Debug\net7.0\Conserv.Api.Data.pdb
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\obj\Debug\net7.0\ref\Conserv.Api.Data.dll
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\bin\Debug\net7.0\Conserv.Api.Data.runtimeconfig.json
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\bin\Debug\net7.0\Conserv.Api.Domain.dll
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\bin\Debug\net7.0\Conserv.Api.Domain.pdb
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\obj\Debug\net7.0\Conserv.Api.Data.csproj.CopyComplete
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\obj\Debug\net7.0\Conserv.Api.Data.genruntimeconfig.cache
