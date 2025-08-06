@@ -637,7 +637,10 @@
           "System.Linq.Dynamic.Core": "1.6.7"
         },
         "runtime": {
-          "Conserv.Api.Data.dll": {}
+          "Conserv.Api.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Conserv.Api.Domain/1.0.0": {
@@ -645,7 +648,10 @@
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
-          "Conserv.Api.Domain.dll": {}
+          "Conserv.Api.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

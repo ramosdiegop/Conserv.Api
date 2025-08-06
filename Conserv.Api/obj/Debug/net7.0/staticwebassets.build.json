@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "8kHnWlQ2vlf0Y9PeEK8CfxHdvy6P96x97UMe2vpx9ow=",
+  "Hash": "9mx6Fbnq3xLxHPSItjq1gLckVDuQdgYhKMZUEZWQVuM=",
   "Source": "Conserv.Api",
   "BasePath": "_content/Conserv.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
