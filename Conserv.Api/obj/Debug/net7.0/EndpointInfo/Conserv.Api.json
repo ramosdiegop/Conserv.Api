@@ -5,6 +5,352 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/Empresa": {
+      "post": {
+        "tags": [
+          "Empresa"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PaginationFilter"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PaginationFilter"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/PaginationFilter"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/EmpresaListPagedResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EmpresaListPagedResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EmpresaListPagedResponse"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Empresa"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Empresa"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Empresa"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Empresa"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Empresa"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Empresa"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Empresa"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Empresa/{id}": {
+      "post": {
+        "tags": [
+          "Empresa"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Empresa"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Empresa"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Empresa"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Empresa"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Empresa"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Empresa"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Empresa"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Equipo": {
+      "post": {
+        "tags": [
+          "Equipo"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PaginationFilter"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PaginationFilter"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/PaginationFilter"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/EquipoListPagedResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EquipoListPagedResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EquipoListPagedResponse"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Equipo"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Equipo"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Equipo"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Equipo"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Equipo"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Equipo"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Equipo"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Equipo/{id}": {
+      "post": {
+        "tags": [
+          "Equipo"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Equipo"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Equipo"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Equipo"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Equipo"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Equipo"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Equipo"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Equipo"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/api/Genero": {
       "post": {
         "tags": [
@@ -1005,6 +1351,227 @@
         }
       }
     },
+    "/api/TipoDocumento": {
+      "post": {
+        "tags": [
+          "TipoDocumento"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PaginationFilter"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PaginationFilter"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/PaginationFilter"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/TipoDocumentoListPagedResponse"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TipoDocumentoListPagedResponse"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TipoDocumentoListPagedResponse"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "TipoDocumento"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TipoDocumento"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TipoDocumento"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TipoDocumento"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/TipoDocumento"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TipoDocumento"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TipoDocumento"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/TipoDocumento/{select}": {
+      "get": {
+        "tags": [
+          "TipoDocumento"
+        ],
+        "parameters": [
+          {
+            "name": "select",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TipoDocumento"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TipoDocumento"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/TipoDocumento"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/TipoDocumento/{id}": {
+      "post": {
+        "tags": [
+          "TipoDocumento"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TipoDocumento"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TipoDocumento"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TipoDocumento"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/TipoDocumento"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TipoDocumento"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TipoDocumento"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "TipoDocumento"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
     "/api/Usuario": {
       "post": {
         "tags": [
@@ -1355,6 +1922,297 @@
         ],
         "type": "integer",
         "format": "int32"
+      },
+      "Empresa": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "codigo_Empresa": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nombre": {
+            "type": "string",
+            "nullable": true
+          },
+          "cuit": {
+            "maxLength": 20,
+            "type": "string",
+            "nullable": true
+          },
+          "telefono": {
+            "maxLength": 20,
+            "type": "string",
+            "nullable": true
+          },
+          "localidad_Id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "domicilio": {
+            "type": "string",
+            "nullable": true
+          },
+          "abrevia": {
+            "maxLength": 15,
+            "type": "string",
+            "nullable": true
+          },
+          "logo": {
+            "type": "string",
+            "nullable": true
+          },
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "web": {
+            "type": "string",
+            "nullable": true
+          },
+          "created_Date": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "created_User": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "modified_Date": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "modified_User": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "localidad": {
+            "$ref": "#/components/schemas/Localidad"
+          }
+        },
+        "additionalProperties": false
+      },
+      "EmpresaListPagedResponse": {
+        "type": "object",
+        "properties": {
+          "data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Empresa"
+            },
+            "nullable": true
+          },
+          "succeeded": {
+            "type": "boolean"
+          },
+          "errors": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "nullable": true
+          },
+          "message": {
+            "type": "string",
+            "nullable": true
+          },
+          "pageNumber": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "pageSize": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "firstPage": {
+            "type": "string",
+            "format": "uri",
+            "nullable": true
+          },
+          "lastPage": {
+            "type": "string",
+            "format": "uri",
+            "nullable": true
+          },
+          "totalPages": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "totalRecords": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nextPage": {
+            "type": "string",
+            "format": "uri",
+            "nullable": true
+          },
+          "previousPage": {
+            "type": "string",
+            "format": "uri",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Equipo": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "codigo_Equipo": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "modelo": {
+            "type": "string",
+            "nullable": true
+          },
+          "patente": {
+            "maxLength": 20,
+            "type": "string",
+            "nullable": true
+          },
+          "anio": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "numero_Motor": {
+            "type": "string",
+            "nullable": true
+          },
+          "numero_Chasis": {
+            "type": "string",
+            "nullable": true
+          },
+          "numero_Serie": {
+            "type": "string",
+            "nullable": true
+          },
+          "alcance": {
+            "type": "number",
+            "format": "double"
+          },
+          "capacidades": {
+            "type": "string",
+            "nullable": true
+          },
+          "tiempo_Minimo": {
+            "type": "string",
+            "nullable": true
+          },
+          "costo_Hora": {
+            "type": "number",
+            "format": "double"
+          },
+          "factura_General": {
+            "maxLength": 2,
+            "type": "string",
+            "nullable": true
+          },
+          "estado": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "dgastos": {
+            "maxLength": 2,
+            "type": "string",
+            "nullable": true
+          },
+          "ver_Agenda": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "created_Date": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "created_User": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "modified_Date": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "modified_User": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "EquipoListPagedResponse": {
+        "type": "object",
+        "properties": {
+          "data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Equipo"
+            },
+            "nullable": true
+          },
+          "succeeded": {
+            "type": "boolean"
+          },
+          "errors": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "nullable": true
+          },
+          "message": {
+            "type": "string",
+            "nullable": true
+          },
+          "pageNumber": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "pageSize": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "firstPage": {
+            "type": "string",
+            "format": "uri",
+            "nullable": true
+          },
+          "lastPage": {
+            "type": "string",
+            "format": "uri",
+            "nullable": true
+          },
+          "totalPages": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "totalRecords": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nextPage": {
+            "type": "string",
+            "format": "uri",
+            "nullable": true
+          },
+          "previousPage": {
+            "type": "string",
+            "format": "uri",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
       },
       "Genero": {
         "type": "object",
@@ -1896,6 +2754,105 @@
             "type": "array",
             "items": {
               "$ref": "#/components/schemas/Provincia"
+            },
+            "nullable": true
+          },
+          "succeeded": {
+            "type": "boolean"
+          },
+          "errors": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "nullable": true
+          },
+          "message": {
+            "type": "string",
+            "nullable": true
+          },
+          "pageNumber": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "pageSize": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "firstPage": {
+            "type": "string",
+            "format": "uri",
+            "nullable": true
+          },
+          "lastPage": {
+            "type": "string",
+            "format": "uri",
+            "nullable": true
+          },
+          "totalPages": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "totalRecords": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nextPage": {
+            "type": "string",
+            "format": "uri",
+            "nullable": true
+          },
+          "previousPage": {
+            "type": "string",
+            "format": "uri",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TipoDocumento": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "codigo": {
+            "type": "string",
+            "nullable": true
+          },
+          "detalle": {
+            "type": "string",
+            "nullable": true
+          },
+          "created_Date": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "created_User": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "modified_Date": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "modified_User": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TipoDocumentoListPagedResponse": {
+        "type": "object",
+        "properties": {
+          "data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/TipoDocumento"
             },
             "nullable": true
           },

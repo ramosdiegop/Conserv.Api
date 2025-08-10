@@ -32,6 +32,9 @@ namespace Conserv.Api.Cross.Register
 			services.AddTransient<ITipoDocumento, TipoDocumentoRepository>();
 			services.AddTransient<IUsuario, UsuarioRepository>();
 			services.AddTransient<IMenu, MenuRepository>();
+			services.AddTransient<IEmpresa, EmpresaRepository>();
+			services.AddTransient<IEquipo, EquipoRepository>();
+
 
 
 			return services;

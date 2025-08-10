@@ -25,6 +25,8 @@ namespace Conserv.Api.Data.Context
 		public virtual DbSet<Usuario> Usuario { get; set; } = null!;
 		public virtual DbSet<Menu> Menues { get; set; } = null!;
 		public virtual DbSet<MenuUsuario> MenuUsuarios { get; set; } = null!;
+		public virtual DbSet<Empresa> Empresa { get; set; } = null!;
+		public virtual DbSet<Equipo> Equipo { get; set; } = null!;
 
 
 		protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

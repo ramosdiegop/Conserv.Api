@@ -3280,9 +3280,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api\\Conserv.Api.csproj",
+      "projectUniqueName": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api\\Conserv.Api.csproj",
       "projectName": "Conserv.Api",
-      "projectPath": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api\\Conserv.Api.csproj",
+      "projectPath": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api\\Conserv.Api.csproj",
       "packagesPath": "C:\\Users\\PCDiego\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api\\obj\\",
       "projectStyle": "PackageReference",
@@ -3307,11 +3307,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Cross\\Conserv.Api.Cross.csproj": {
-              "projectPath": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Cross\\Conserv.Api.Cross.csproj"
+            "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Cross\\Conserv.Api.Cross.csproj": {
+              "projectPath": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Cross\\Conserv.Api.Cross.csproj"
             },
-            "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj": {
-              "projectPath": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj"
+            "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj": {
+              "projectPath": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj"
             }
           }
         }

@@ -3506,9 +3506,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj",
+      "projectUniqueName": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj",
       "projectName": "Conserv.Api.Data",
-      "projectPath": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj",
+      "projectPath": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj",
       "packagesPath": "C:\\Users\\PCDiego\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Data\\obj\\",
       "projectStyle": "PackageReference",
@@ -3533,8 +3533,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj": {
-              "projectPath": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj"
+            "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj": {
+              "projectPath": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj"
             }
           }
         }

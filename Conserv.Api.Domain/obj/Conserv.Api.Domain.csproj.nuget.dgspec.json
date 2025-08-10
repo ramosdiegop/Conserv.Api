@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj": {}
+    "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj": {
+    "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj",
         "projectName": "Conserv.Api.Domain",
-        "projectPath": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj",
+        "projectPath": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj",
         "packagesPath": "C:\\Users\\PCDiego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Domain\\obj\\",
+        "outputPath": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

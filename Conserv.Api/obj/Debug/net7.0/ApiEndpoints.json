@@ -1,5 +1,203 @@
 [
   {
+    "ContainingType": "Conserv.Api.Controllers.EmpresaController",
+    "Method": "PostAll",
+    "RelativePath": "api/Empresa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filter",
+        "Type": "Conserv.Api.Domain.Pagination.PaginationFilter",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Conserv.Api.Domain.Pagination.PagedResponse\u00601[[System.Collections.Generic.List\u00601[[Conserv.Api.Data.Data.Empresa, Conserv.Api.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Conserv.Api.Controllers.EmpresaController",
+    "Method": "Put",
+    "RelativePath": "api/Empresa",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empresa",
+        "Type": "Conserv.Api.Data.Data.Empresa",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Conserv.Api.Data.Data.Empresa",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Conserv.Api.Controllers.EmpresaController",
+    "Method": "Post",
+    "RelativePath": "api/Empresa/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "equipo",
+        "Type": "Conserv.Api.Data.Data.Empresa",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Conserv.Api.Data.Data.Empresa",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Conserv.Api.Controllers.EmpresaController",
+    "Method": "Delete",
+    "RelativePath": "api/Empresa/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Conserv.Api.Controllers.EquipoController",
+    "Method": "PostAll",
+    "RelativePath": "api/Equipo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filter",
+        "Type": "Conserv.Api.Domain.Pagination.PaginationFilter",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Conserv.Api.Domain.Pagination.PagedResponse\u00601[[System.Collections.Generic.List\u00601[[Conserv.Api.Data.Data.Equipo, Conserv.Api.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Conserv.Api.Controllers.EquipoController",
+    "Method": "Put",
+    "RelativePath": "api/Equipo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "equipo",
+        "Type": "Conserv.Api.Data.Data.Equipo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Conserv.Api.Data.Data.Equipo",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Conserv.Api.Controllers.EquipoController",
+    "Method": "Post",
+    "RelativePath": "api/Equipo/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "equipo",
+        "Type": "Conserv.Api.Data.Data.Equipo",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Conserv.Api.Data.Data.Equipo",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Conserv.Api.Controllers.EquipoController",
+    "Method": "Delete",
+    "RelativePath": "api/Equipo/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Conserv.Api.Controllers.GeneroController",
     "Method": "PostAll",
     "RelativePath": "api/Genero",
@@ -556,6 +754,131 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Conserv.Api.Controllers.TipoDocumentoController",
+    "Method": "PostAll",
+    "RelativePath": "api/TipoDocumento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filter",
+        "Type": "Conserv.Api.Domain.Pagination.PaginationFilter",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Conserv.Api.Domain.Pagination.PagedResponse\u00601[[System.Collections.Generic.List\u00601[[Conserv.Api.Data.Data.TipoDocumento, Conserv.Api.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Conserv.Api.Controllers.TipoDocumentoController",
+    "Method": "Put",
+    "RelativePath": "api/TipoDocumento",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tipo",
+        "Type": "Conserv.Api.Data.Data.TipoDocumento",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Conserv.Api.Data.Data.TipoDocumento",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Conserv.Api.Controllers.TipoDocumentoController",
+    "Method": "Post",
+    "RelativePath": "api/TipoDocumento/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tipo",
+        "Type": "Conserv.Api.Data.Data.TipoDocumento",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Conserv.Api.Data.Data.TipoDocumento",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Conserv.Api.Controllers.TipoDocumentoController",
+    "Method": "Delete",
+    "RelativePath": "api/TipoDocumento/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Conserv.Api.Controllers.TipoDocumentoController",
+    "Method": "GetAllSelect",
+    "RelativePath": "api/TipoDocumento/{select}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "select",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Conserv.Api.Data.Data.TipoDocumento, Conserv.Api.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "Conserv.Api.Controllers.UsuarioController",
