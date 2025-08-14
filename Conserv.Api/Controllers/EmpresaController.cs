@@ -89,7 +89,21 @@ namespace Conserv.Api.Controllers
 
 		}
 
+		[HttpGet("{id}")]
+		public async Task<ActionResult<Empresa>> GetById(int id)
+		{
+			try
+			{
+				var Laempresa = await _IEmpresa.GetById(id);
+				return Ok(Laempresa);
 
+			}
+			catch (Exception e)
+			{
+				return NotFound("Error: " + e.Message);
+			}
+
+		}
 
 	}
 }

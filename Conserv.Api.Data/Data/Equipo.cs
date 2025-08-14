@@ -16,7 +16,7 @@ namespace Conserv.Api.Data.Data
 		public int Codigo_Equipo { get; set; }
 		public string Modelo { get; set; }
 		[MaxLength(20)]
-		public string Patente { get; set; }
+		public string? Patente { get; set; }
 		public int Anio { get; set; }
 		public string? Numero_Motor { get; set; }
 		public string? Numero_Chasis { get; set; }

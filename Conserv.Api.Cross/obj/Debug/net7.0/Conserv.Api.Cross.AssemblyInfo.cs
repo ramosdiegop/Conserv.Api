@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conserv.Api.Cross")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d542a306365e06d6cced8a055e2b63357a7ceca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+075501c486f5e4659b8226769cac553638092811")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conserv.Api.Cross")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conserv.Api.Cross")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

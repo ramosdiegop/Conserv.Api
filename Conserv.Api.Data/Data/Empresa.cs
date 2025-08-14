@@ -16,11 +16,11 @@ namespace Conserv.Api.Data.Data
 		public int Codigo_Empresa { get; set; }
 		public string Nombre { get; set; }
 		[MaxLength(20)]
-		public string? Cuit { get; set; }
+		public string Cuit { get; set; }
 		[MaxLength(20)]
 		public string? Telefono { get; set; }
 		[ForeignKey("Localidad")]
-		public int Localidad_Id { get; set; }
+		public int? Localidad_Id { get; set; }
 		public string? Domicilio { get; set; }
 		[MaxLength(15)]
 		public string? Abrevia { get; set; }

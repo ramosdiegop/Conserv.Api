@@ -14,7 +14,6 @@ C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\bin\Debug\net7.0\Cons
 C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\bin\Debug\net7.0\Conserv.Api.Domain.dll
 C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\bin\Debug\net7.0\Conserv.Api.Data.pdb
 C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\bin\Debug\net7.0\Conserv.Api.Domain.pdb
-C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\obj\Debug\net7.0\Conserv.Api.Cross.csproj.CopyComplete
 C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api.Cross\bin\Debug\net7.0\Conserv.Api.Cross.deps.json
 C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api.Cross\bin\Debug\net7.0\Conserv.Api.Cross.dll
 C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api.Cross\bin\Debug\net7.0\Conserv.Api.Cross.pdb
@@ -33,3 +32,5 @@ C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api.Cross\obj\Debug\net7.0\Con
 C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api.Cross\obj\Debug\net7.0\refint\Conserv.Api.Cross.dll
 C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api.Cross\obj\Debug\net7.0\Conserv.Api.Cross.pdb
 C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api.Cross\obj\Debug\net7.0\ref\Conserv.Api.Cross.dll
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\obj\Debug\net7.0\Conserv.Api.Cross.sourcelink.json
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Cross\obj\Debug\net7.0\Conserv..5FA6BF46.Up2Date

@@ -13,7 +13,6 @@ C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\obj\Debug\net7.0\ref\C
 C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\bin\Debug\net7.0\Conserv.Api.Data.runtimeconfig.json
 C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\bin\Debug\net7.0\Conserv.Api.Domain.dll
 C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\bin\Debug\net7.0\Conserv.Api.Domain.pdb
-C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\obj\Debug\net7.0\Conserv.Api.Data.csproj.CopyComplete
 C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\obj\Debug\net7.0\Conserv.Api.Data.genruntimeconfig.cache
 C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api.Data\bin\Debug\net7.0\Conserv.Api.Data.deps.json
 C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api.Data\bin\Debug\net7.0\Conserv.Api.Data.runtimeconfig.json
@@ -33,3 +32,5 @@ C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api.Data\obj\Debug\net7.0\refi
 C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api.Data\obj\Debug\net7.0\Conserv.Api.Data.pdb
 C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api.Data\obj\Debug\net7.0\Conserv.Api.Data.genruntimeconfig.cache
 C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api.Data\obj\Debug\net7.0\ref\Conserv.Api.Data.dll
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\obj\Debug\net7.0\Conserv.Api.Data.sourcelink.json
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Data\obj\Debug\net7.0\Conserv..CA88509A.Up2Date

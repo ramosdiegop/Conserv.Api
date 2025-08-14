@@ -99,6 +99,32 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Conserv.Api.Controllers.EmpresaController",
+    "Method": "GetById",
+    "RelativePath": "api/Empresa/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Conserv.Api.Data.Data.Empresa",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "Conserv.Api.Controllers.EquipoController",
     "Method": "PostAll",
     "RelativePath": "api/Equipo",

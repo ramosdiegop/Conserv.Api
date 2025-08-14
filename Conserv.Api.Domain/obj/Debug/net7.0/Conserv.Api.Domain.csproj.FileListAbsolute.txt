@@ -23,3 +23,4 @@ C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api.Domain\obj\Debug\net7.0\Co
 C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api.Domain\obj\Debug\net7.0\refint\Conserv.Api.Domain.dll
 C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api.Domain\obj\Debug\net7.0\Conserv.Api.Domain.pdb
 C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api.Domain\obj\Debug\net7.0\ref\Conserv.Api.Domain.dll
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api.Domain\obj\Debug\net7.0\Conserv.Api.Domain.sourcelink.json

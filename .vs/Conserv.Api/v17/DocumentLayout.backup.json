@@ -1,65 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\",
+  "WorkspaceRootPath": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\pcdiego\\source\\repos\\conserv.api\\conserv.api.data\\repository\\empresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|solutionrelative:conserv.api.data\\repository\\empresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\pcdiego\\source\\repos\\conserv.api\\conserv.api.data\\repository\\provinciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|solutionrelative:conserv.api.data\\repository\\provinciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\pcdiego\\source\\repos\\conserv.api\\conserv.api.data\\repository\\tipodocumentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|solutionrelative:conserv.api.data\\repository\\tipodocumentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\pcdiego\\source\\repos\\conserv.api\\conserv.api.data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|solutionrelative:conserv.api.data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\pcdiego\\source\\repos\\conserv.api\\conserv.api.data\\data\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\dramos\\source\\repos\\conserv.api\\conserv.api.data\\data\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|solutionrelative:conserv.api.data\\data\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\pcdiego\\source\\repos\\conserv.api\\conserv.api.data\\conserv.api.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|solutionrelative:conserv.api.data\\conserv.api.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\dramos\\source\\repos\\conserv.api\\conserv.api.data\\repository\\empresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|solutionrelative:conserv.api.data\\repository\\empresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97EAEFE7-BE7B-4385-A0B7-AECFA9120CA7}|Conserv.Api\\Conserv.Api.csproj|c:\\users\\pcdiego\\source\\repos\\conserv.api\\conserv.api\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97EAEFE7-BE7B-4385-A0B7-AECFA9120CA7}|Conserv.Api\\Conserv.Api.csproj|c:\\users\\dramos\\source\\repos\\conserv.api\\conserv.api\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97EAEFE7-BE7B-4385-A0B7-AECFA9120CA7}|Conserv.Api\\Conserv.Api.csproj|solutionrelative:conserv.api\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97EAEFE7-BE7B-4385-A0B7-AECFA9120CA7}|Conserv.Api\\Conserv.Api.csproj|c:\\users\\pcdiego\\source\\repos\\conserv.api\\conserv.api\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97EAEFE7-BE7B-4385-A0B7-AECFA9120CA7}|Conserv.Api\\Conserv.Api.csproj|solutionrelative:conserv.api\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\pcdiego\\source\\repos\\conserv.api\\conserv.api.data\\repository\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|solutionrelative:conserv.api.data\\repository\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\pcdiego\\source\\repos\\conserv.api\\conserv.api.data\\interfaz\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|solutionrelative:conserv.api.data\\interfaz\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\pcdiego\\source\\repos\\conserv.api\\conserv.api.data\\interfaz\\iempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\dramos\\source\\repos\\conserv.api\\conserv.api.data\\interfaz\\iempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|solutionrelative:conserv.api.data\\interfaz\\iempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98EF6187-B31B-4FE5-8A31-ED1E8A406F9B}|Conserv.Api.Cross\\Conserv.Api.Cross.csproj|c:\\users\\pcdiego\\source\\repos\\conserv.api\\conserv.api.cross\\register\\iocregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97EAEFE7-BE7B-4385-A0B7-AECFA9120CA7}|Conserv.Api\\Conserv.Api.csproj|c:\\users\\dramos\\source\\repos\\conserv.api\\conserv.api\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAEFE7-BE7B-4385-A0B7-AECFA9120CA7}|Conserv.Api\\Conserv.Api.csproj|solutionrelative:conserv.api\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\dramos\\source\\repos\\conserv.api\\conserv.api.data\\conserv.api.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|solutionrelative:conserv.api.data\\conserv.api.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EAEFE7-BE7B-4385-A0B7-AECFA9120CA7}|Conserv.Api\\Conserv.Api.csproj|c:\\users\\dramos\\source\\repos\\conserv.api\\conserv.api\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EAEFE7-BE7B-4385-A0B7-AECFA9120CA7}|Conserv.Api\\Conserv.Api.csproj|solutionrelative:conserv.api\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\dramos\\source\\repos\\conserv.api\\conserv.api.data\\repository\\provinciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|solutionrelative:conserv.api.data\\repository\\provinciarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\dramos\\source\\repos\\conserv.api\\conserv.api.data\\repository\\tipodocumentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|solutionrelative:conserv.api.data\\repository\\tipodocumentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\dramos\\source\\repos\\conserv.api\\conserv.api.data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|solutionrelative:conserv.api.data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\dramos\\source\\repos\\conserv.api\\conserv.api.data\\repository\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|solutionrelative:conserv.api.data\\repository\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\dramos\\source\\repos\\conserv.api\\conserv.api.data\\interfaz\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|solutionrelative:conserv.api.data\\interfaz\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EF6187-B31B-4FE5-8A31-ED1E8A406F9B}|Conserv.Api.Cross\\Conserv.Api.Cross.csproj|c:\\users\\dramos\\source\\repos\\conserv.api\\conserv.api.cross\\register\\iocregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98EF6187-B31B-4FE5-8A31-ED1E8A406F9B}|Conserv.Api.Cross\\Conserv.Api.Cross.csproj|solutionrelative:conserv.api.cross\\register\\iocregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\pcdiego\\source\\repos\\conserv.api\\conserv.api.data\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\dramos\\source\\repos\\conserv.api\\conserv.api.data\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|solutionrelative:conserv.api.data\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\pcdiego\\source\\repos\\conserv.api\\conserv.api.data\\repository\\generorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\dramos\\source\\repos\\conserv.api\\conserv.api.data\\repository\\generorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|solutionrelative:conserv.api.data\\repository\\generorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\pcdiego\\source\\repos\\conserv.api\\conserv.api.data\\repository\\functionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|c:\\users\\dramos\\source\\repos\\conserv.api\\conserv.api.data\\repository\\functionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{076E8B03-0D6B-465F-93DF-DD7C8608306B}|Conserv.Api.Data\\Conserv.Api.Data.csproj|solutionrelative:conserv.api.data\\repository\\functionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,15 +74,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -90,198 +94,197 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ProvinciaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\ProvinciaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\ProvinciaRepository.cs",
               "RelativeDocumentMoniker": "Conserv.Api.Data\\Repository\\ProvinciaRepository.cs",
-              "ToolTip": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\ProvinciaRepository.cs",
+              "ToolTip": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\ProvinciaRepository.cs",
               "RelativeToolTip": "Conserv.Api.Data\\Repository\\ProvinciaRepository.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T22:14:18.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T22:14:18.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "TipoDocumentoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\TipoDocumentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\TipoDocumentoRepository.cs",
               "RelativeDocumentMoniker": "Conserv.Api.Data\\Repository\\TipoDocumentoRepository.cs",
-              "ToolTip": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\TipoDocumentoRepository.cs",
+              "ToolTip": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\TipoDocumentoRepository.cs",
               "RelativeToolTip": "Conserv.Api.Data\\Repository\\TipoDocumentoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T22:14:17.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T22:14:17.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "Conserv.Api.Data\\Repository\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\UsuarioRepository.cs",
               "RelativeToolTip": "Conserv.Api.Data\\Repository\\UsuarioRepository.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T22:14:13.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T22:14:13.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Empresa.cs",
-              "DocumentMoniker": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Data\\Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Data\\Empresa.cs",
               "RelativeDocumentMoniker": "Conserv.Api.Data\\Data\\Empresa.cs",
-              "ToolTip": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Data\\Empresa.cs",
-              "RelativeToolTip": "Conserv.Api.Data\\Data\\Empresa.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAACAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Data\\Empresa.cs*",
+              "RelativeToolTip": "Conserv.Api.Data\\Data\\Empresa.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-09T22:10:53.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EmpresaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\EmpresaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\EmpresaRepository.cs",
               "RelativeDocumentMoniker": "Conserv.Api.Data\\Repository\\EmpresaRepository.cs",
-              "ToolTip": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\EmpresaRepository.cs*",
-              "RelativeToolTip": "Conserv.Api.Data\\Repository\\EmpresaRepository.cs*",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAhAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\EmpresaRepository.cs",
+              "RelativeToolTip": "Conserv.Api.Data\\Repository\\EmpresaRepository.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAADgv48AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-09T12:29:38.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "EmpresaController.cs",
-              "DocumentMoniker": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api\\Controllers\\EmpresaController.cs",
+              "DocumentMoniker": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api\\Controllers\\EmpresaController.cs",
               "RelativeDocumentMoniker": "Conserv.Api\\Controllers\\EmpresaController.cs",
-              "ToolTip": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api\\Controllers\\EmpresaController.cs",
+              "ToolTip": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api\\Controllers\\EmpresaController.cs",
               "RelativeToolTip": "Conserv.Api\\Controllers\\EmpresaController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T12:53:26.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T12:53:26.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "IEmpresa.cs",
-              "DocumentMoniker": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Interfaz\\IEmpresa.cs",
+              "DocumentMoniker": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Interfaz\\IEmpresa.cs",
               "RelativeDocumentMoniker": "Conserv.Api.Data\\Interfaz\\IEmpresa.cs",
-              "ToolTip": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Interfaz\\IEmpresa.cs",
+              "ToolTip": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Interfaz\\IEmpresa.cs",
               "RelativeToolTip": "Conserv.Api.Data\\Interfaz\\IEmpresa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T12:30:06.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T12:30:06.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "Conserv.Api\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "Conserv.Api\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T18:34:23.516Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Conserv.Api.Data",
-              "DocumentMoniker": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj",
+              "Title": "Conserv.Api.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj",
               "RelativeDocumentMoniker": "Conserv.Api.Data\\Conserv.Api.Data.csproj",
-              "ToolTip": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj",
+              "ToolTip": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj",
               "RelativeToolTip": "Conserv.Api.Data\\Conserv.Api.Data.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-09T12:11:47.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T12:11:47.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "EquipoController.cs",
-              "DocumentMoniker": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api\\Controllers\\EquipoController.cs",
+              "DocumentMoniker": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api\\Controllers\\EquipoController.cs",
               "RelativeDocumentMoniker": "Conserv.Api\\Controllers\\EquipoController.cs",
-              "ToolTip": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api\\Controllers\\EquipoController.cs",
+              "ToolTip": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api\\Controllers\\EquipoController.cs",
               "RelativeToolTip": "Conserv.Api\\Controllers\\EquipoController.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAE8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T13:33:06.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IMenu.cs",
-              "DocumentMoniker": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Interfaz\\IMenu.cs",
-              "RelativeDocumentMoniker": "Conserv.Api.Data\\Interfaz\\IMenu.cs",
-              "ToolTip": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Interfaz\\IMenu.cs",
-              "RelativeToolTip": "Conserv.Api.Data\\Interfaz\\IMenu.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T12:30:31.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MenuRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\MenuRepository.cs",
-              "RelativeDocumentMoniker": "Conserv.Api.Data\\Repository\\MenuRepository.cs",
-              "ToolTip": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\MenuRepository.cs",
-              "RelativeToolTip": "Conserv.Api.Data\\Repository\\MenuRepository.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAWwF0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T12:28:19.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T13:33:06.63Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "IoCRegister.cs",
-              "DocumentMoniker": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Cross\\Register\\IoCRegister.cs",
-              "RelativeDocumentMoniker": "Conserv.Api.Cross\\Register\\IoCRegister.cs",
-              "ToolTip": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Cross\\Register\\IoCRegister.cs",
-              "RelativeToolTip": "Conserv.Api.Cross\\Register\\IoCRegister.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAyAAAAAAAAAA==",
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Interfaz\\IMenu.cs",
+              "RelativeDocumentMoniker": "Conserv.Api.Data\\Interfaz\\IMenu.cs",
+              "ToolTip": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Interfaz\\IMenu.cs",
+              "RelativeToolTip": "Conserv.Api.Data\\Interfaz\\IMenu.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T12:51:10.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T12:30:31.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\MenuRepository.cs",
+              "RelativeDocumentMoniker": "Conserv.Api.Data\\Repository\\MenuRepository.cs",
+              "ToolTip": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\MenuRepository.cs",
+              "RelativeToolTip": "Conserv.Api.Data\\Repository\\MenuRepository.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAWwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:28:19.605Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "DBContext.cs",
-              "DocumentMoniker": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Context\\DBContext.cs",
-              "RelativeDocumentMoniker": "Conserv.Api.Data\\Context\\DBContext.cs",
-              "ToolTip": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Context\\DBContext.cs",
-              "RelativeToolTip": "Conserv.Api.Data\\Context\\DBContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
+              "Title": "IoCRegister.cs",
+              "DocumentMoniker": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Cross\\Register\\IoCRegister.cs",
+              "RelativeDocumentMoniker": "Conserv.Api.Cross\\Register\\IoCRegister.cs",
+              "ToolTip": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Cross\\Register\\IoCRegister.cs",
+              "RelativeToolTip": "Conserv.Api.Cross\\Register\\IoCRegister.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T12:26:57.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T12:51:10.127Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "GeneroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\GeneroRepository.cs",
-              "RelativeDocumentMoniker": "Conserv.Api.Data\\Repository\\GeneroRepository.cs",
-              "ToolTip": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\GeneroRepository.cs",
-              "RelativeToolTip": "Conserv.Api.Data\\Repository\\GeneroRepository.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Context\\DBContext.cs",
+              "RelativeDocumentMoniker": "Conserv.Api.Data\\Context\\DBContext.cs",
+              "ToolTip": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Context\\DBContext.cs",
+              "RelativeToolTip": "Conserv.Api.Data\\Context\\DBContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T12:28:30.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T12:26:57.9Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "GeneroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\GeneroRepository.cs",
+              "RelativeDocumentMoniker": "Conserv.Api.Data\\Repository\\GeneroRepository.cs",
+              "ToolTip": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\GeneroRepository.cs",
+              "RelativeToolTip": "Conserv.Api.Data\\Repository\\GeneroRepository.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:28:30.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "FunctionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\FunctionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\FunctionRepository.cs",
               "RelativeDocumentMoniker": "Conserv.Api.Data\\Repository\\FunctionRepository.cs",
-              "ToolTip": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\FunctionRepository.cs",
+              "ToolTip": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Repository\\FunctionRepository.cs",
               "RelativeToolTip": "Conserv.Api.Data\\Repository\\FunctionRepository.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T12:27:59.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T12:27:59.775Z"
             }
           ]
         }

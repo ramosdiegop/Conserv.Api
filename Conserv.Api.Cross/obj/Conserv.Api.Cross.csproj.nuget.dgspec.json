@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Cross\\Conserv.Api.Cross.csproj": {}
+    "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Cross\\Conserv.Api.Cross.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Cross\\Conserv.Api.Cross.csproj": {
+    "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Cross\\Conserv.Api.Cross.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Cross\\Conserv.Api.Cross.csproj",
+        "projectUniqueName": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Cross\\Conserv.Api.Cross.csproj",
         "projectName": "Conserv.Api.Cross",
-        "projectPath": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Cross\\Conserv.Api.Cross.csproj",
-        "packagesPath": "C:\\Users\\PCDiego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Cross\\obj\\",
+        "projectPath": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Cross\\Conserv.Api.Cross.csproj",
+        "packagesPath": "C:\\Users\\dramos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Cross\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PCDiego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dramos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -28,14 +28,15 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/5MOWJm5bnB31CA6dt75jA4NStCwGukwYLon3dhoHd2OXyculcj/api": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj": {
-                "projectPath": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj"
+              "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj": {
+                "projectPath": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj"
               }
             }
           }
@@ -50,7 +51,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net7.0": {
@@ -81,25 +82,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj": {
+    "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj",
+        "projectUniqueName": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj",
         "projectName": "Conserv.Api.Data",
-        "projectPath": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj",
-        "packagesPath": "C:\\Users\\PCDiego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Data\\obj\\",
+        "projectPath": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\Conserv.Api.Data.csproj",
+        "packagesPath": "C:\\Users\\dramos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PCDiego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dramos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -109,14 +110,15 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/5MOWJm5bnB31CA6dt75jA4NStCwGukwYLon3dhoHd2OXyculcj/api": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj": {
-                "projectPath": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj"
+              "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj": {
+                "projectPath": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj"
               }
             }
           }
@@ -131,7 +133,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net7.0": {
@@ -198,25 +200,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj": {
+    "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj",
         "projectName": "Conserv.Api.Domain",
-        "projectPath": "C:\\Users\\PCDiego\\Source\\Repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj",
-        "packagesPath": "C:\\Users\\PCDiego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PCDiego\\source\\repos\\Conserv.Api\\Conserv.Api.Domain\\obj\\",
+        "projectPath": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Domain\\Conserv.Api.Domain.csproj",
+        "packagesPath": "C:\\Users\\dramos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dramos\\source\\repos\\Conserv.Api\\Conserv.Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PCDiego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dramos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -226,7 +228,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/5MOWJm5bnB31CA6dt75jA4NStCwGukwYLon3dhoHd2OXyculcj/api": {}
         },
         "frameworks": {
           "net7.0": {
@@ -244,7 +247,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net7.0": {
@@ -271,7 +274,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -17,6 +17,7 @@ namespace Conserv.Api.Data.Interfaz
 		Task<Empresa> Update(Empresa empresa);
 		Task<string> Delete(int id);
 		Task<Empresa> GetById(int Id);
+		
 
 	}
 }

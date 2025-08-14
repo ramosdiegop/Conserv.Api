@@ -11,11 +11,6 @@ C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\Conserv.Ap
 C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\Conserv.Api.AssemblyInfo.cs
 C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\Conserv.Api.csproj.CoreCompileInputs.cache
 C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\Conserv.Api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\staticwebassets\msbuild.Conserv.Api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Conserv.Api.props
-C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Conserv.Api.props
-C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Conserv.Api.props
-C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\staticwebassets.pack.json
 C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\scopedcss\bundle\Conserv.Api.styles.css
@@ -81,7 +76,6 @@ C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\bin\Debug\net7.0\Conserv.Ap
 C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\bin\Debug\net7.0\Conserv.Api.Data.pdb
 C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\bin\Debug\net7.0\Conserv.Api.Domain.pdb
 C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\Conserv.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\Conserv.Api.csproj.CopyComplete
 C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api\bin\Debug\net7.0\appsettings.json
 C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api\bin\Debug\net7.0\Conserv.Api.staticwebassets.endpoints.json
@@ -171,3 +165,13 @@ C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\refint\Co
 C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\Conserv.Api.pdb
 C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\Conserv.Api.genruntimeconfig.cache
 C:\Users\PCDiego\Source\Repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\ref\Conserv.Api.dll
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\bin\Debug\net7.0\Conserv.Api.staticwebassets.endpoints.json
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\Conserv.Api.sourcelink.json
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\rjimswa.dswa.cache.json
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\staticwebassets.build.json.cache
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\dramos\source\repos\Conserv.Api\Conserv.Api\obj\Debug\net7.0\Conserv..D482A111.Up2Date
